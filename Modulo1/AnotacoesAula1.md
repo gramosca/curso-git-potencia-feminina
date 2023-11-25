@@ -16,3 +16,11 @@
 #### git clone e endereço para clonar a nova pasta.
 
 #### ls, lista o que tem no diretorio.
+
+#### git checkout -b, cria uma nova branch e muda automaticamente para ela.
+
+### git branch - lista as branch existentes
+
+### git checkout e nome da branch que quer voltar.
+
+###
